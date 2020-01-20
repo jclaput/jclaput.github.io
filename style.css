@@ -1,0 +1,40 @@
+body {
+  background-color: lightblue;
+}
+
+img {
+  position: relative;
+  width: 1920px;
+  height: 240px;
+  top: -10px;
+  left: -10px;
+}
+
+h1 {
+  position: absolute;
+  top: -40px;
+  left: 475px;
+  color: white;
+}
+
+#header{
+  color: black;
+  text-align: center;
+  font-family: arial;
+  font-size: 64px;
+}
+
+#content{
+  position: absolute;
+  font-family: verdana;
+  font-size: 20px;
+  bottom: 400px;
+}
+
+#footer {
+	position: absolute;
+  font-family: arial;
+	font-size: 12px;
+	font-style: italic;
+  bottom: 0px;
+}
